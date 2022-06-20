@@ -1,0 +1,2 @@
+# pruebaHotel
+Trabajo grupal git
